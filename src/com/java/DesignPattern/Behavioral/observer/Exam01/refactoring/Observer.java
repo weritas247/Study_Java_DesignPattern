@@ -1,4 +1,4 @@
-package com.java.designpattern.observer.exam01.refactoring;
+package com.java.DesignPattern.Behavioral.observer.Exam01.refactoring;
 
 public class Observer {
     public String roomName;

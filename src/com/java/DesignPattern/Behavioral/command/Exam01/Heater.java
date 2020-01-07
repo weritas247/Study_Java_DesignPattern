@@ -1,4 +1,4 @@
-package com.java.designpattern.command.exam01;
+package com.java.DesignPattern.Behavioral.command.Exam01;
 
 public class Heater {
 

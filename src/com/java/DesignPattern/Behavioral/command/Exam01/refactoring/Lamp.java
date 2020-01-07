@@ -1,4 +1,4 @@
-package com.java.designpattern.command.exam01.refactoring;
+package com.java.DesignPattern.Behavioral.command.Exam01.refactoring;
 
 public class Lamp {
     public void turnOn() {
