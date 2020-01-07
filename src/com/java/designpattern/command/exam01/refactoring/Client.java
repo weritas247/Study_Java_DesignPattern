@@ -1,8 +1,4 @@
-package com.java.designpattern.command.refactoring;
-
-import com.java.designpattern.command.refactoring.Heater;
-import com.java.designpattern.command.refactoring.Lamp;
-import com.java.designpattern.command.refactoring.OKGoogle;
+package com.java.designpattern.command.exam01.refactoring;
 
 public class Client {
 

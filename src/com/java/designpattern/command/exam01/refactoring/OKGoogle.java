@@ -1,7 +1,4 @@
-package com.java.designpattern.command.refactoring;
-
-import com.java.designpattern.command.Heater;
-import com.java.designpattern.command.Lamp;
+package com.java.designpattern.command.exam01.refactoring;
 
 public class OKGoogle {
 
