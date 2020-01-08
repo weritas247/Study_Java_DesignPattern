@@ -1,4 +1,4 @@
-package com.java.DesignPattern.Behavioral.observer.Exam01;
+package com.java.DesignPattern.Behavioral.Observer.Exam01;
 
 public class GameRoom extends Room {
     public GameRoom(String roomName) {

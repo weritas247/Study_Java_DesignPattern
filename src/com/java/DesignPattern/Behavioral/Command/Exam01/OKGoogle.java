@@ -1,4 +1,4 @@
-package com.java.DesignPattern.Behavioral.command.Exam01;
+package com.java.DesignPattern.Behavioral.Command.Exam01;
 
 public class OKGoogle {
 

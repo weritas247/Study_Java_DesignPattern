@@ -1,4 +1,4 @@
-package com.java.DesignPattern.Behavioral.observer.Exam01;
+package com.java.DesignPattern.Behavioral.Observer.Exam01;
 
 import java.util.List;
 

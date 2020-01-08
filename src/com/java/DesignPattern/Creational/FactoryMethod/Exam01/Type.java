@@ -1,4 +1,5 @@
 package com.java.DesignPattern.Creational.FactoryMethod.Exam01;
 
-public class Type {
+public abstract class Type {
+
 }
