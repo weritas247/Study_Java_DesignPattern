@@ -1,4 +1,4 @@
-package com.java.DesignPattern.Structural.Decorator;
+package com.java.DesignPattern.Structural.Decorator.Exam01;
 
 public class SandwichWithPickle extends Sandwich {
     @Override
