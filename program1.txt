@@ -1,0 +1,4 @@
+program end
+program go end
+program go right go right go right go right end
+program repeat 4 go right end end
