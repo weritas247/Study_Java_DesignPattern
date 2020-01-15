@@ -53,8 +53,6 @@ class Log implements IDestination {
     }
 }
 
-
-
 class Mediator {
     List<IDestination> list = new ArrayList<IDestination>();
     public void addDestination(IDestination destination) { list.add(destination); }
