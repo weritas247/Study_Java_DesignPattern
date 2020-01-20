@@ -1,5 +1,8 @@
 # 템플릿 메소드 패턴
 
+![Alamofire: Elegant Networking in Swift](https://gmlwjd9405.github.io/images/design-pattern-template-method/template-method-solution3.png)
+
+
 ### 어떤 작업을 처리하는 일부분을 서브 클래스로 캡슐화해 전체 일을 수행하는 구조는 바꾸지 않으면서 특정 단계에서 수행하는 내역을 바꾸는 패턴
  * 즉 전체적으로는 동일하면서 부분적으로는 다른 구문으로 구성된 메서드의 코드 중복을 최소화 할 때 유용하다.
  * 다른 관점에서 보면 동일한 기능을 상위 클래스에서 정의하면서 확장/변화가 필요한 부분만 서브 클래스에서 구현 할 수 있도록 한다.
