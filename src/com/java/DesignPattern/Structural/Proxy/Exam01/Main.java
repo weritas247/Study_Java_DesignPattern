@@ -28,17 +28,17 @@ public class Main {
         System.out.println("보호 프록시 서비스를 가동.");
         System.out.println("================================================================");
         List<Employee> protectedEmployees = employees.stream().map(ProtectedEmployee::new).collect(Collectors.toList());
-
-        System.out.println("================================================================");
-        System.out.println("시나리오2. Staff(Dark Kim)가 회사 인원 인사 정보 조회");
-        System.out.println("================================================================");
-        printAllInformationInCompany(devStaff, protectedEmployees);
-
-        System.out.println("================================================================");
-        System.out.println("시나리오3. Manger(Cats Chang)가 회사 인원 인사 정보 조회");
-        System.out.println("================================================================");
-        printAllInformationInCompany(devManager, protectedEmployees);
-
+//
+//        System.out.println("================================================================");
+//        System.out.println("시나리오2. Staff(Dark Kim)가 회사 인원 인사 정보 조회");
+//        System.out.println("================================================================");
+//        printAllInformationInCompany(devStaff, protectedEmployees);
+//
+//        System.out.println("================================================================");
+//        System.out.println("시나리오3. Manager(Cats Chang)가 회사 인원 인사 정보 조회");
+//        System.out.println("================================================================");
+//        printAllInformationInCompany(devManager, protectedEmployees);
+//
         System.out.println("================================================================");
         System.out.println("시나리오4. VicePresident(Dragon Jung)가 회사 인원 인사 정보 조회");
         System.out.println("================================================================");
