@@ -34,15 +34,15 @@ public class Main {
 //        System.out.println("================================================================");
 //        printAllInformationInCompany(devStaff, protectedEmployees);
 //
-//        System.out.println("================================================================");
-//        System.out.println("시나리오3. Manager(Cats Chang)가 회사 인원 인사 정보 조회");
-//        System.out.println("================================================================");
-//        printAllInformationInCompany(devManager, protectedEmployees);
+        System.out.println("================================================================");
+        System.out.println("시나리오3. Manager(Cats Chang)가 회사 인원 인사 정보 조회");
+        System.out.println("================================================================");
+        printAllInformationInCompany(devManager, protectedEmployees);
 //
-        System.out.println("================================================================");
-        System.out.println("시나리오4. VicePresident(Dragon Jung)가 회사 인원 인사 정보 조회");
-        System.out.println("================================================================");
-        printAllInformationInCompany(CTO, protectedEmployees);
+//        System.out.println("================================================================");
+//        System.out.println("시나리오4. VicePresident(Dragon Jung)가 회사 인원 인사 정보 조회");
+//        System.out.println("================================================================");
+//        printAllInformationInCompany(CTO, protectedEmployees);
     }
 
     public static void printAllInformationInCompany(Employee viewer, List<Employee> employees) {
